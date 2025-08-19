@@ -25,8 +25,8 @@ Unlocking the potential within AtliQ’s sales and finance data holds the key to
 <summary><img src="https://shorturl.at/H2R40" alt="sales_icon" width="30" style="vertical-align:middle;"/> Sales Analysis and Reporting</summary>
 
 **Objectives:**  
-- Develop a comprehensive customer performance report.  
-- Conduct a detailed comparison of market performance vs. sales targets.  
+- Develop a comprehensive [customer performance report](https://github.com/Sneha-S-79/atliq-sales-finance-excel-analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf).  
+- Conduct a detailed comparison of [market performance vs. sales targets](https://github.com/Sneha-S-79/atliq-sales-finance-excel-analytics/blob/main/Market%20vs%20Target%20Performance%20Report.pdf).  
 
 **Key Achievements:**  
 - Enabled monitoring and evaluation of sales activities.  
@@ -40,8 +40,8 @@ Unlocking the potential within AtliQ’s sales and finance data holds the key to
 <summary><img src="https://shorturl.at/rDKQ6" alt="finance_icon" width="30" style="vertical-align:middle;"/> Financial Analysis and Reporting</summary>
 
 **Objectives:**  
-- Create Profit and Loss (P&L) reports by Fiscal Year and Months.  
-- Develop P&L reports segmented by Markets.  
+- Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Sneha-S-79/atliq-sales-finance-excel-analytics/blob/main/P%26L%20by%20Fiscal%20Years.pdf) and [Months](https://github.com/Sneha-S-79/atliq-sales-finance-excel-analytics/blob/main/P%26L%20by%20Months%20and%20Quarters.pdf).  
+- Develop P&L reports segmented by [Markets](https://github.com/Sneha-S-79/atliq-sales-finance-excel-analytics/blob/main/P%26L%20by%20Markets.pdf).  
 
 **Key Achievements:**  
 - Evaluated financial performance comprehensively.  
